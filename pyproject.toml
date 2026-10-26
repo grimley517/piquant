@@ -1,0 +1,9 @@
+[project]
+name = "piquant"
+version = "0.1.0"
+description = "Working through the Packt Python for Algorithmic Trading Cookbook"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "openbb",
+]
